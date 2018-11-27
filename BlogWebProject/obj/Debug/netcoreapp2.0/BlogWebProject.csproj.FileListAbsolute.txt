@@ -1,0 +1,12 @@
+C:\Users\Ilda\source\repos\BlogWebProject\BlogWebProject\bin\Debug\netcoreapp2.0\BlogWebProject.deps.json
+C:\Users\Ilda\source\repos\BlogWebProject\BlogWebProject\bin\Debug\netcoreapp2.0\BlogWebProject.runtimeconfig.json
+C:\Users\Ilda\source\repos\BlogWebProject\BlogWebProject\bin\Debug\netcoreapp2.0\BlogWebProject.runtimeconfig.dev.json
+C:\Users\Ilda\source\repos\BlogWebProject\BlogWebProject\bin\Debug\netcoreapp2.0\BlogWebProject.dll
+C:\Users\Ilda\source\repos\BlogWebProject\BlogWebProject\bin\Debug\netcoreapp2.0\BlogWebProject.pdb
+C:\Users\Ilda\source\repos\BlogWebProject\BlogWebProject\obj\Debug\netcoreapp2.0\BlogWebProject.csproj.CoreCompileInputs.cache
+C:\Users\Ilda\source\repos\BlogWebProject\BlogWebProject\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Ilda\source\repos\BlogWebProject\BlogWebProject\obj\Debug\netcoreapp2.0\BlogWebProject.AssemblyInfoInputs.cache
+C:\Users\Ilda\source\repos\BlogWebProject\BlogWebProject\obj\Debug\netcoreapp2.0\BlogWebProject.AssemblyInfo.cs
+C:\Users\Ilda\source\repos\BlogWebProject\BlogWebProject\obj\Debug\netcoreapp2.0\BlogWebProject.dll
+C:\Users\Ilda\source\repos\BlogWebProject\BlogWebProject\obj\Debug\netcoreapp2.0\BlogWebProject.pdb
+C:\Users\Ilda\source\repos\BlogWebProject\BlogWebProject\obj\Debug\netcoreapp2.0\BlogWebProject.csprojAssemblyReference.cache
