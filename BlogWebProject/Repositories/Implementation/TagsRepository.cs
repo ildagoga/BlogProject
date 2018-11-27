@@ -13,6 +13,7 @@ namespace BlogWebProject.Repositories.Implementation
         public TagsRepository(ApplicationDbContext applicationDbContext) : base(applicationDbContext)
         {
 
+
         }
     }
 }
