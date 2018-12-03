@@ -28,7 +28,8 @@ namespace BlogWebProject.Repositories.Implementation
                         itempost.PostId equals tagItemposts.PostId
                         join tagitem in ApplicationDbContext.Tags
                         on tagItemposts.TagId equals tagitem.TagId
-                        select (tagitem)).Distinct(),
+                        where(tagItemposts.PostId==id)
+                        select (tagitem)),
 
                comments = (from post in ApplicationDbContext.Posts
                            join comments in ApplicationDbContext.Comments on

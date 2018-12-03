@@ -160,6 +160,25 @@ namespace BlogWebProject.Controllers
             return View(post);
         }
 
+        public IActionResult BackToList(string userId=null)
+        {
+
+            if (!User.Identity.IsAuthenticated)
+            {
+                return RedirectToAction("Index", "Home");
+
+            }
+            else
+            {
+                if (userId == null)
+                {
+                    userId = this.User.FindFirstValue(ClaimTypes.NameIdentifier);
+
+                }
+                return RedirectToAction(nameof(Index), new { userId = userId }); ;
+            }
+            
+        }
 
     }
 }
